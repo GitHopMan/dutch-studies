@@ -2,9 +2,9 @@ Sector,Gebied
 SECTOROVERSTIJGEND,sectoroverstijgend
 ECONOMIE,economie
 ECONOMIE,bedrijfskunde
-ECONOMIE,ondernemen, management en marketing
+ECONOMIE,"ondernemen, management en marketing"
 ECONOMIE,accountancy en actuaris
-ECONOMIE,hotel, facility en toerisme
+ECONOMIE,"hotel, facility en toerisme"
 ECONOMIE,journalistiek en communicatie
 ECONOMIE,economie overig
 GEDRAG EN MAATSCHAPPIJ,psychologie
@@ -26,13 +26,13 @@ LANDBOUW EN NATUURLIJKE OMGEVING,voedsel en dierhouderij
 LANDBOUW EN NATUURLIJKE OMGEVING,biologie en biotechnologie
 LANDBOUW EN NATUURLIJKE OMGEVING,economie en de maatschappij
 LANDBOUW EN NATUURLIJKE OMGEVING,landbouw overig
-NATUUR,biologie, scheikunde en medisch
-NATUUR,wiskunde, natuurkunde en informatica
+NATUUR,"biologie, scheikunde en medisch"
+NATUUR,"wiskunde, natuurkunde en informatica"
 NATUUR,aardwetenschappen
 NATUUR,multidisciplinaire natuurwetenschappen
 NATUUR,natuur overig
-ONDERWIJS,lerarenopleiding
-basisonderwijs
+ONDERWIJS,"lerarenopleiding
+basisonderwijs"
 ONDERWIJS,2e graads lerarenopleiding
 ONDERWIJS,kunst/lichamelijke opvoeding
 ONDERWIJS,1e graad lerarenopleiding
@@ -52,10 +52,10 @@ TAAL EN CULTUUR,talen
 TAAL EN CULTUUR,filosofie en ethiek
 TAAL EN CULTUUR,religie
 TAAL EN CULTUUR,geschiedenis en archeologie
-TAAL EN CULTUUR,journalistiek, communicatie en media
+TAAL EN CULTUUR,"journalistiek, communicatie en media"
 TAAL EN CULTUUR,taal en cultuur overig
-TECHNIEK,biologie, scheikunde en medisch
-TECHNIEK,wiskunde, natuurkunde en informatica
+TECHNIEK,"biologie, scheikunde en medisch"
+TECHNIEK,"wiskunde, natuurkunde en informatica"
 TECHNIEK,bouwkunde en civiel techniek
 TECHNIEK,ontwerp-opleidingen
 TECHNIEK,techniek en de maatschappij
